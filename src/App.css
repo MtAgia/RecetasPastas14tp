@@ -1,0 +1,19 @@
+#root{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.mainSection{
+    flex-grow: 1;
+}
+.carrusel{
+    object-fit: cover;
+    height: 395px;
+    width: 100%;
+}
+
+.truncar{
+    max-width: 150px;
+    overflow-x: auto;
+    max-height: 75px;
+}

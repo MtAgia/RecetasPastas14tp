@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombreUsuario": "admin1",
+      "email": "admin@blogderecetaspastas.com",
+      "password": "123456aA$"
+    },
+    {
+      "username": "admin2",
+      "email": "admin2@blogderecetas.com",
+      "password": "Admin1234$",
+      "id": 2
+    }
+  ],
+  "receta": [
+    {
+      "nombreReceta": "Pasta bucatini all'amatriciana",
+      "preparacion": "400 gramos de Spaghetti o bucatini\n\n120 gramos de Tocino entreverado\n\n1 Cebolla\n\n1 Chile seco\n\n450 gramos de Tomate picado\n\n3 cucharas de Aceite de oliva\n\n1 pizca de Sal\n\n30 gramos de Queso pecorino\n\n1 cucharilla de Azúcar\n\nPerejil picado y parmesano\n\n1 pizca de Pimienta\n",
+      "ingredientes": "400 grams De spaghetti o bucatini 120 grams Pancetta (de guanciale/tocino entreverado) 1  Cebolla 1  Chile seco 450 grams De tomate picado 3 cucharadas De aceite de oliva add  Sal (y pimienta) 30 grams De queso pecorino 1  Cucharadita de azucar add  Perejil picado y parmesano para servir",
+      "imagen": "https://images.pexels.com/photos/17178446/pexels-photo-17178446/free-photo-of-pasta-on-plate.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "categoria": "bucatini",
+      "id": 1
+    }
+  ]
+}
